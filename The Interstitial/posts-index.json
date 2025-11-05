@@ -2,7 +2,7 @@
     {
         "id": 4,
         "title": "On transisnce",
-        "date": "October 5, 2025"
+        "date": "October 5, 2025",
         "excerpt": "On tranisnce is an abcdefghijklmnopqrstuvwxyz 1234567890",
         "file": "posts/post-4.html",
         "image": "https://placehold.co/600x400/111827/ffffff?text=ontransince",
@@ -37,5 +37,6 @@
     }
 
 ]
+
 
 
