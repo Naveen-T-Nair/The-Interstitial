@@ -1,0 +1,23 @@
+[
+    {
+        "id": 3,
+        "title": "The Structural Integrity of the Self: On Heartbreak and Rebuilding",
+        "date": "November 5, 2025",
+        "excerpt": "We speak of heartbreak as a single, catastrophic event—a 'break.' But in engineering, failure is rarely so simple. It is often a story of fatigue, of micro-fractures, of a load the system was never designed to bear...",
+        "file": "posts/post-3.html"
+    },
+    {
+        "id": 2,
+        "title": "The Discipline of the Gym and the Lab",
+        "date": "October 28, 2025",
+        "excerpt": "A 5 AM alarm for the gym feels very different from a 5 AM alarm to finish a paper, but the source of the motivation is the same. It's the pursuit of incremental progress...",
+        "file": "posts/post-2.html"
+    },
+    {
+        "id": 1,
+        "title": "On Reading and Research: How Two Worlds Collide",
+        "date": "October 20, 2025",
+        "excerpt": "People often ask me how I balance the technical rigor of a PhD in Power Electronics with the creative, meandering world of reading and writing. To me, they aren't separate worlds at all...",
+        "file": "posts/post-1.html"
+    }
+]
